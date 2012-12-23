@@ -2,12 +2,19 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.royal</groupId>
-	<artifactId>springMVCSecurityDemo</artifactId>
+	<developers>
+		<developer>
+			<id>qiailin</id>
+			<email>qiailin@yeah.net</email>
+			<organization>zjht</organization>
+		</developer>
+	</developers>
+	<groupId>com.yeah</groupId>
+	<artifactId>spring-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springMVCSecurityDemo</name>
+	<name>spring-security</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
