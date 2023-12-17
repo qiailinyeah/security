@@ -192,22 +192,22 @@
 	<repositories>
 		<repository>
 			<id>java.net</id>
-			<url>http://download.java.net/maven/1</url>
+			<url>https://download.java.net/maven/1</url>
 			<layout>legacy</layout>
 		</repository>
 		<repository>
 			<id>maven repo</id>
 			<name>maven repo</name>
-			<url>http://repo1.maven.org/maven2/</url>
+			<url>https://repo1.maven.org/maven2/</url>
 		</repository>
 		<repository>
 			<id>sonatype</id>
 			<name>sonatype</name>
-			<url>http://repository.sonatype.org/content/groups/public/</url>
+			<url>https://repository.sonatype.org/content/groups/public/</url>
 		</repository>
 		<repository>
 			<id>acegi</id>
-			<url>http://mirrors.ibiblio.org/pub/mirrors/maven2/org/acegisecurity/ </url>
+			<url>https://mirrors.ibiblio.org/pub/mirrors/maven2/org/acegisecurity/ </url>
 		</repository>
 	</repositories>
 </project>
